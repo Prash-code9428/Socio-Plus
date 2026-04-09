@@ -11,13 +11,19 @@ A modern, dynamic, and responsive full-stack social network web application. Con
 ## Screenshots
 
 ### Login Page
-![Login Page](./screenshots/login.png)
+![Login Page]
+<img width="1907" height="954" alt="Screenshot 2026-04-09 233436" src="https://github.com/user-attachments/assets/4c3f6b23-6e56-4240-a470-5db00c5c9275" />
+
 
 ### Home Feed
-![Home Feed](./screenshots/home.png)
+![Home Feed]
+<img width="1907" height="908" alt="Screenshot 2026-04-09 233453" src="https://github.com/user-attachments/assets/fd02a817-81bc-4e81-a7d8-541418065337" />
+
 
 ### User Profile
-![User Profile](./screenshots/profile.png)
+![User Profile]
+<img width="1912" height="913" alt="Screenshot 2026-04-09 234152" src="https://github.com/user-attachments/assets/01f27495-ad18-4816-873e-9744d827c0ce" />
+
 
 ## Tech Stack
 - **Frontend**: React.js, Vite, Bootstrap, Socket.IO Client
